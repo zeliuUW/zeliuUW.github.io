@@ -49,14 +49,7 @@ academia:
         start_date: '2017'
         end_date: '2020'
         other_info: 'graduated without first class honor, supervised by Prof. Gang Wang!'
-<!--     - course:
-        degree: "B.Sc."
-        institution: 'University of Kashan'
-        major: 'Software Engineering'
-        minor: 'Statistics'
-        start_date: '2009'
-        end_date: '2013'
-        other_info: 'graduated with first class honor, supervised by Prof.  Cool!' -->
+        
 ---
 
 **Personal Statement** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
